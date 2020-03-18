@@ -56,6 +56,12 @@ Di seguito un elenco di possibili video da realizzare o che sono già stati real
 * Controllare la contabilità (mostrare dove vengono visualizzati gli errori e come risolvere i problemi (cliccando sul ?))
 
 
+## Pianificazione video
+* Come creare le fatture
+* Come importare i dati
+La priorità per questi due temi è dovuta al fatto dell'adozione delle fatture QR code in CH a partire da luglio e perché tanti utenti chiedono spesso supporto sulle fatture. È importante avere già proprio un tutorial per luglio e per inserirlo nella promozione delle fatture QR code con Banana.
+L'importazione dei dati è una parte importante per velocizzare l'inserimento dei dati in Banana e si ricollega agli scorsi video di come iniziare le varie contabilità.
+
 ## Diversi
 * Video "Scarica Banana Gratis" che mostra come scaricare gratuitamente Banana, spiega che è possibile usare tutte le funzionalità gratuitamente per provarle, e poi se si è interessati acquistare il programma (mostrando come fare). Spiegare bene che l'acquisto è fatto una sola volta e che il programma resta per sempre. Futuri aggiornamenti della stessa versione sono gratuiti. Far vedere come inserire la chiave di licenza per attivare il programma (mostrare dove si trova la chiave licenza). Spiegare che ora è possibile continuare ad usare Banana da dove si era finito senza nessun limite di registrazioni. 
 
